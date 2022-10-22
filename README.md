@@ -43,7 +43,5 @@ Link para a página: [Cyber Bot](https://tamiresporto.github.io/Front_Enders/)
   
 ![image](img/Project.jpg)
 
-<h1> OBS: A aluna Bruna fez um commit em outro computador e infelizmente o github desktop estava aberto com a conta da aluna Rannyelle.</h1>
- 
  </div>
 
